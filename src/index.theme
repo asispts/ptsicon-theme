@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=PtsIcon
+Inherits=elementary,Adwaita,gnome,hicolor
+Comment=PtsIcon theme
+
+#Directory list
+Directories=scalable/mimetypes
+
+[scalable/mimetypes]
+Size=48
+Type=Scalable
+MinSize=1
+MaxSize=256
+Context=MimeTypes
