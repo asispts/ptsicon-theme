@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=PtsIcon
-Inherits=elementary,Adwaita,gnome,hicolor
+Inherits=elementary,Adwaita
 Comment=PtsIcon theme
 
 #Directory list
