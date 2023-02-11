@@ -3,8 +3,8 @@
 
 ## Requirement
 Please install one of these fallback icons:
-  - [`elementary`](https://github.com/elementary/icons)
   - [`Adwaita`](https://github.com/GNOME/adwaita-icon-theme)
+  - [`elementary`](https://github.com/elementary/icons)
 
 ## Added Icons
 

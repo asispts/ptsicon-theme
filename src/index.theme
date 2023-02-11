@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=PtsIcon
-Inherits=elementary,Adwaita
+Inherits=Adwaita,elementary
 Comment=PtsIcon theme
 
 #Directory list
