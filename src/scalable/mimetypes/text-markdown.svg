@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--part of the matt icon theme by sixsixfive released under CC0 (https://creativecommons.org/publicdomain/zero/1.0/) on openclipart-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg41"
+   sodipodi:docname="matt-icons_text-x-html.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1908"
+     inkscape:window-height="1017"
+     id="namedview43"
+     showgrid="false"
+     inkscape:zoom="4.2523945"
+     inkscape:cx="47.725371"
+     inkscape:cy="74.67234"
+     inkscape:window-x="1924"
+     inkscape:window-y="57"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg41" />
+  <defs
+     id="0">
+    <linearGradient
+       id="8">
+      <stop
+         id="L"
+         stop-opacity="0" />
+      <stop
+         offset="0.5"
+         id="M" />
+      <stop
+         id="N"
+         offset="1"
+         stop-opacity="0.169" />
+    </linearGradient>
+    <linearGradient
+       id="9">
+      <stop
+         id="O"
+         stop-opacity="0" />
+      <stop
+         id="P"
+         offset="0.5" />
+      <stop
+         offset="1"
+         id="Q"
+         stop-opacity="0" />
+    </linearGradient>
+    <linearGradient
+       id="A">
+      <stop
+         id="R" />
+      <stop
+         offset="1"
+         id="S"
+         stop-opacity="0.579" />
+    </linearGradient>
+    <linearGradient
+       id="B">
+      <stop
+         id="T"
+         stop-color="#8bb300" />
+      <stop
+         offset="1"
+         id="U"
+         stop-color="#99c500" />
+    </linearGradient>
+    <linearGradient
+       id="C">
+      <stop
+         id="V"
+         stop-color="#eee" />
+      <stop
+         offset="1"
+         id="W"
+         stop-color="#d2d2d2" />
+    </linearGradient>
+    <linearGradient
+       id="D">
+      <stop
+         id="X" />
+      <stop
+         offset="1"
+         id="Y"
+         stop-opacity="0.536" />
+    </linearGradient>
+    <linearGradient
+       id="E">
+      <stop
+         id="Z" />
+      <stop
+         offset="1"
+         id="a"
+         stop-color="#ddd"
+         stop-opacity="0" />
+    </linearGradient>
+    <filter
+       id="F"
+       x="-0.147"
+       width="1.294"
+       y="-0.145"
+       height="1.29">
+      <feGaussianBlur
+         stdDeviation="1.81881"
+         id="b" />
+    </filter>
+    <filter
+       id="G">
+      <feGaussianBlur
+         stdDeviation="2.58594"
+         id="c" />
+    </filter>
+    <radialGradient
+       xlink:href="#D"
+       id="H"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.97467889,0,0.43910718)"
+       cx="89.51"
+       cy="22.254"
+       r="18.279" />
+    <linearGradient
+       xlink:href="#E"
+       y2="25.1"
+       x2="86.82"
+       y1="14.793"
+       x1="98.33"
+       gradientTransform="matrix(0.96714879,0,0,0.96714879,1.5886796,3.2231964)"
+       gradientUnits="userSpaceOnUse"
+       id="I" />
+    <radialGradient
+       xlink:href="#C"
+       r="44.42"
+       cy="100.32"
+       cx="81.79"
+       gradientTransform="matrix(2.0026052,-1.5970314,1.7773333,2.2286954,-278.08797,27.013826)"
+       gradientUnits="userSpaceOnUse"
+       id="J" />
+  </defs>
+  <path
+     d="m 20.09375,4.1185004 0,117.9999996 88.84375,0 0,-86.15625 -0.59375,-0.625 c 0.21045,0.144391 0.41688,0.302162 0.625,0.4375 L 78.09375,4.1497504 c 0.05654,0.079597 0.09993,0.1703021 0.15625,0.25 l -0.25,-0.28125 -57.90625,0 z"
+     id="1"
+     transform="matrix(0.96714879,0,0,0.97126149,1.5886796,2.6954315)"
+     opacity="0.809"
+     filter="url(#G)" />
+  <path
+     d="m 21.037439,5.8526322 0,114.1235578 85.925121,0 0,-83.325913 -29.921161,-30.7976448 -56.00396,0 z"
+     id="2"
+     fill="url(#J)" />
+  <path
+     id="4"
+     d="m 81.698039,28.309502 0.135161,-8.351 C 81.901124,13.359407 80.956142,8.4107397 77.785779,3.9471419 L 80.362343,3.9159389 107.86271,29.53084 c -4.06802,-2.645393 -9.621189,-0.791242 -16.861906,-1.025606 l -9.302765,-0.195732 z"
+     transform="matrix(1.016085,0,0,1.112241,-3.7922382,2.9647584)"
+     opacity="0.505"
+     fill="url(#H)"
+     filter="url(#F)" />
+  <path
+     d="m 82.748319,29.121681 0.130721,-8.07666 c 0.06569,-6.382306 -2.691577,-10.83607 -5.75779,-15.1530328 l 29.86674,30.5881668 c -3.93438,-2.558489 -8.23966,-6.942507 -15.242513,-7.169171 l -8.997158,-0.189303 z"
+     id="5"
+     fill="#eee" />
+  <path
+     id="6"
+     d="m 82.748319,29.121681 0.130721,-8.07666 c 0.06569,-6.382306 -2.691577,-10.83607 -5.75779,-15.1530328 l 29.86674,30.5881668 c -3.93438,-2.558489 -8.23966,-6.942507 -15.242513,-7.169171 l -8.997158,-0.189303 z"
+     fill="url(#I)" />
+  <g
+     id="g874"
+     transform="matrix(0.23513523,0,0,0.17254195,83.256637,80.658222)">
+    <rect
+       id="rect2"
+       ry="10"
+       y="83.207092"
+       x="-185.27991"
+       height="118"
+       width="198"
+       style="fill:none;stroke:#000000;stroke-width:10" />
+    <path
+       id="path4"
+       d="m -160.27991,176.20709 v -68 h 20 l 20,25 20,-25 h 20.000004 v 68 h -20.000004 v -39 l -20,25 -20,-25 v 39 z m 125.000006,0 -30.000002,-33 h 20 v -35 h 20.000002 v 35 h 19.9999998 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31202579px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0541881"
+     x="25.447191"
+     y="14.768699"
+     id="text878"><tspan
+       sodipodi:role="line"
+       id="tspan876"
+       x="25.447191"
+       y="14.768699"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881">Heading</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="17.73521"
+       id="tspan880"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881">=======</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="20.701721"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1026" /><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="23.591753"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1140">Bullet list:</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="26.558264"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1142"></tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="29.448296"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1144">  * apples</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="32.414806"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1146">  * oranges</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="35.381317"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1148">  * pears</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="38.347828"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1150"></tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="41.237862"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1152">Numbered list:</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="44.204372"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1154"></tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="47.094402"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1156">  1. lather</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="50.060913"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1158">  2. rinse</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="53.027424"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1160">  3. repeat</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="55.993938"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1138" /><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="58.883968"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1028">Inline &lt;abbr title=&quot;Hypertext Markup Language&quot;&gt;HTML&lt;/abbr&gt;</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="61.850479"
+       id="tspan882"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881" /><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="64.740509"
+       id="tspan884"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881">## Sub-heading</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="67.707024"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1030" /><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="70.597054"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1032">An [example](http://example.com).</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="73.563568"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1034" /><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="76.453598"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1036">![Image](Icon-pictures.png &quot;icon&quot;)</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="79.420113"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1038" /><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="82.310143"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881"
+       id="tspan1040">&gt; Markdown uses email-style &gt; characters for blockquoting.</tspan><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="85.276649"
+       id="tspan942"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881" /><tspan
+       sodipodi:role="line"
+       x="25.447191"
+       y="88.166687"
+       id="tspan956"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.0541881" /></text>
+</svg>

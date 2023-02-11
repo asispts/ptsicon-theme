@@ -9,4 +9,8 @@ Please install one of these fallback icons:
 ## Added Icons
 
 ### Mimetypes
-  1. vscode workspace file (`*.code-workspace`)
+  1. vscode workspace (`*.code-workspace`)
+  2. php (`*.php`)
+  3. CSS and SCSS (`*.css` and `*.scss`)
+  4. JavaScript (`*.js`)
+  5. Markdown (`*.md`)
