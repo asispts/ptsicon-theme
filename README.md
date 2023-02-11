@@ -12,3 +12,4 @@ Please install one of these fallback icons:
   1. vscode workspace (`*.code-workspace`)
   2. php (`*.php`)
   3. CSS and SCSS (`*.css` and `*.scss`)
+  4. JavaScript (`*.js`)
